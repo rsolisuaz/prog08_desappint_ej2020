@@ -1,0 +1,64 @@
+/* Estilos personalizados */
+
+.mifooter {
+	background-color: lightgray;
+	font-size: 0.75rem;
+}
+
+body {
+	padding-top: 4rem;
+}
+
+.bg-separador{
+	border-color: #cccccc;
+	background-color:  #e6e6e6;
+}
+
+.panel-size{
+	height: 100%;
+}
+
+.btn-standard {
+	width: 6rem;
+}
+
+
+.card-signin {
+  border: 0;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.card-signin .card-title {
+  margin-bottom: 2rem;
+  font-weight: 300;
+  font-size: 1.5rem;
+}
+
+.card-signin .card-body {
+  padding: 2rem;
+}
+
+.form-signin {
+  width: 100%;
+}
+
+.form-signin .btn {
+  font-size: 80%;
+  border-radius: 5rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+  padding: 1rem;
+  transition: all 0.2s;
+}
+
+.errormsg {
+   color: red;
+   font-size: 120%;
+   text-align: center;
+}
+
+.titulo-prestamo {
+  height: 50px;
+  text-align: center;
+}
